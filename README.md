@@ -80,4 +80,7 @@ MIT License © 2025 SKF Bank Simulation
 
 ---
 
-> Developed by [Your Name / Institution]
+> ## 👨‍💻 Author
+
+**Muhammad Saeed**  
+AI & Data Science Enthusiast (Python)
